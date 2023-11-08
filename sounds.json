@@ -1190,12 +1190,7 @@
               {
                 "name": "Apple Notification",
                 "color": "#33cc33",
-                "mp3": "sounds/apple-notification.mp3"
-              },
-              {
-                "name": "Android Notification",
-                "color": "#ffcc33",
-                "mp3": "sounds/android-notification.mp3"
+                "mp3": "sounds/apple notification.mp3"
               },
               {
                 "name": "I Am the Great Mighty Poo",
@@ -1205,7 +1200,7 @@
               {
                 "name": "Whens Imposter is Sus",
                 "color": "#33ccff",
-                "mp3": "sounds/whens-imposter-is-sus.mp3"
+                "mp3": "sounds/Whens imposter is sus.mp3"
             },
     {
 
