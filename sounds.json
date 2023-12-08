@@ -1127,7 +1127,7 @@
   "mp3": "sounds/minecraft-cave-sound.mp3"
           },
           {
-              
+
                 "name": "Fortnite Death",
                 "color": "#33cc33",
                 "mp3": "sounds/Fortnite Death - QuickSounds.com.mp3"
@@ -1203,11 +1203,37 @@
                 "mp3": "sounds/Whens imposter is sus.mp3"
               },
               {
-                
+
                 "name": "It's Beginning to Look a Gyatt Like Rizzmas",
                 "color": "#1a2b3c",
                 "mp3": "sounds/it-s-beginning-to-look-a-gyatt-like-rizzmas.mp3"
             },
+    {
+        "name": "Your Phone Ringing",
+        "color": "#3c2b1a",
+        "mp3": "sounds/your-phone-linging.mp3"
+      },
+    {
+        "name": "All My Fellas",
+        "color": "#4b3a2a",
+        "mp3": "sounds/all-my-fellas.mp3"
+      },
+    {
+        "name": "Chinese Rap Song",
+        "color": "#2a4b3a",
+        "mp3": "sounds/chinese-rap-song.mp3"
+      },
+    {
+
+        "name": "I am Going to Commit Great Crime",
+        "color": "#3c2b1a",
+        "mp3": "sounds/i-am-going-to-commit-great-crime.mp3"
+      },
+    {
+        "name": "Amber Alert",
+        "color": "#965d36",
+        "mp3": "sounds/amber-alert.mp3"
+      },
     {
 
 
