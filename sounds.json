@@ -1235,7 +1235,11 @@
         "mp3": "sounds/amber-alert.mp3"
       },
     {
-
+        "name": "Computer Speaks Spanish",
+        "color": "#6d491a", 
+        "mp3": "sounds/computer-speaks-spanish.mp3"
+      },
+    {
 
     }
   ]
