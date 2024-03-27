@@ -1246,7 +1246,13 @@
         "mp3": "sounds/Barbie-Girl.mp3"
       },
     {
-      
+    },
+      {
+        "name": "At a Medium Pace",
+        "color": "#8b0000",
+        "mp3": "sounds/at-a-medium-pace.mp3"
+      },
+{
         "name": "Good Lookin",
         "color": "#8b4513",
         "mp3": "sounds/dixon-dallas-good-lookin.mp3"
