@@ -1235,11 +1235,23 @@
         "mp3": "sounds/amber-alert.mp3"
       },
     {
+      
         "name": "Computer Speaks Spanish",
         "color": "#6d491a", 
         "mp3": "sounds/computer-speaks-spanish.mp3"
       },
     {
+        "name": "Barbie Girl",
+        "color": "#4a235a",
+        "mp3": "sounds/Barbie-Girl.mp3"
+      },
+    {
+      
+        "name": "Good Lookin",
+        "color": "#8b4513",
+        "mp3": "sounds/dixon-dallas-good-lookin.mp3"
+      },
+      {
 
     }
   ]
