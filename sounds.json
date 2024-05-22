@@ -1255,6 +1255,13 @@
         "color": "#8b0000",
         "mp3": "sounds/at-a-medium-pace.mp3"
       },
+
+    {
+      "name": "Rizzler",
+      "color": "#4682b4",
+      "mp3": "sounds/rizzler.mp3"
+    },
+    
 {
         "name": "Good Lookin",
         "color": "#8b4513",
