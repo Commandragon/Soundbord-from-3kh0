@@ -1278,6 +1278,11 @@
       "mp3": "sounds/skibidi-toilet-will-be-mine.mp3"
     },
     {
+      "name": "Edge till it Hurts",
+      "color": "#ff4500",
+      "mp3": "sounds/Edge-till-it-hurts.mp3"
+    },
+    {
     "name": "Burgers in the Back",
     "color": "#8b008b",
     "mp3": "sounds/burgers-in-the-back-caseoh.mp3"
