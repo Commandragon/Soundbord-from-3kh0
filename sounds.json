@@ -1278,6 +1278,21 @@
       "mp3": "sounds/skibidi-toilet-will-be-mine.mp3"
     },
     {
+        "name": "Goosebumps Caseoh",
+        "color": "#1e90ff",
+        "mp3": "sounds/goosebumps-caseoh.mp3"
+      },
+      {
+        "name": "Group Leader Sir",
+        "color": "#ffd700",
+        "mp3": "sounds/group-leader-sir.mp3"
+      },
+      {
+        "name": "Sigma Parody",
+        "color": "#daa520",
+        "mp3": "sounds/sigma-parody.mp3"
+      },
+    {
       "name": "Edge till it Hurts",
       "color": "#ff4500",
       "mp3": "sounds/Edge-till-it-hurts.mp3"
