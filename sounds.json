@@ -1235,7 +1235,7 @@
         "mp3": "sounds/amber-alert.mp3"
       },
     {
-      
+
         "name": "Computer Speaks Spanish",
         "color": "#6d491a", 
         "mp3": "sounds/computer-speaks-spanish.mp3"
@@ -1261,7 +1261,7 @@
       "color": "#4682b4",
       "mp3": "sounds/rizzler.mp3"
     },
-    
+
 {
         "name": "Good Lookin",
         "color": "#8b4513",
@@ -1311,9 +1311,32 @@
     "name": "Burgers in the Back",
     "color": "#8b008b",
     "mp3": "sounds/burgers-in-the-back-caseoh.mp3"
-  
+    },
+    {
+  "name": "Sigma Town Safe and Sound Brain Rot Parody",
+  "color": "#00ced1",
+  "mp3": "sounds/sigma-town-safe-and-sound-brain-rot-parody.mp3"
+},
+{
+  "name": "Rizz by Jelly House",
+  "color": "#ff4500",
+  "mp3": "sounds/rizz-jelly-house.mp3"
+},
+{
+  "name": "Last Rizzday Night by Jelly House",
+  "color": "#ff6347",
+  "mp3": "sounds/jelly-house-last-rizzday-night.mp3"
+},
+{
+  "name": "Edging Bad for Me",
+  "color": "#7b68ee",
+  "mp3": "sounds/edging-bad-for-me.mp3"
+},
+{
 
-  
+
+
+
     }
   ]
 }
