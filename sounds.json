@@ -1333,16 +1333,37 @@
   "mp3": "sounds/edging-bad-for-me.mp3"
 },
 {
+    "name": "Brainrot Bash",
+    "color": "#ff6347",
+    "mp3": "sounds/Brainrot-Bash.mp3"
+  },
+  {
+    "name": "Rizz Skibidi Rizz",
+    "color": "#1e90ff",
+    "mp3": "sounds/Rizz-Skibidi-Rizz.mp3"
+  },
+  {
+    "name": "Skibidi Toilet Is Coming to Ohio",
+    "color": "#ff4500",
+    "mp3": "sounds/Skibidi-Toilet-Is-Coming-To-Ohio.mp3"
+  },
+  {
+    "name": "Somebody's Mogging Me",
+    "color": "#32cd32",
+    "mp3": "sounds/Somebody's-Mogging-Me.mp3"
+  },
+  {
+    "name": "Twelve Days of Rizzmas",
+    "color": "#daa520",
+    "mp3": "sounds/Twelve-Days-Of-Rizzmas.mp3"
+  },
+  {
     "name": "4 Big Guys",
     "color": "#32cd32",
     "mp3": "sounds/4-big-guys.mp3"
   },
   {
-    "name": "4 Minutes",
-    "color": "#82bd82",
-    "mp3": "sounds/Four minutes.mp3"
-  },
-  {
+
 
 
 
