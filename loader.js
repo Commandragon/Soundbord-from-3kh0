@@ -1,3 +1,4 @@
+// A unminified version is at og-loader.js
 let audioElements = {};
 const spinnerElement = document.querySelector(".spinner");
 const containerElement = document.querySelector(".flex-container");
@@ -14,6 +15,7 @@ fetch("sounds.json?t=" + time).then(response => response.json()).then(data => {
 
         // Play sound on button click
         buttonElement.addEventListener("click", () => {
+            stopAll(); // Stop all sounds before playing the selected one
             if (audioElements[sound.name]) {
                 audioElements[sound.name].currentTime = 0;
                 audioElements[sound.name].play();
@@ -36,15 +38,15 @@ fetch("sounds.json?t=" + time).then(response => response.json()).then(data => {
         const progressBar = document.createElement("progress");
         progressBar.classList.add("progress");
         progressBar.value = 0;
+        progressBar.max = 1; // Set the maximum value for the progress bar
         soundElement.appendChild(progressBar);
         
         audioElement.addEventListener("timeupdate", () => {
             progressBar.value = audioElement.currentTime / audioElement.duration;
         });
-        
+
         containerElement.appendChild(soundElement);
     });
-    
     spinnerElement.remove();
     hasLoaded = true;
     console.log(data.sounds.length + " sounds loaded!");
@@ -70,6 +72,7 @@ function playAll() {
     for (const name in audioElements) {
         if (Object.hasOwnProperty.call(audioElements, name)) {
             const el = audioElements[name];
+            el.currentTime = 0; // Reset time to the beginning
             el.play();
         }
     }
