@@ -70,17 +70,18 @@
 <script type="application/javascript" src="loader.js"></script>
 <script>
     function playRandomSound() {
-        fetch("sounds.json")
-            .then(response => response.json())
-            .then(data => {
-                var sounds = data.sounds;
-                var randomIndex = Math.floor(Math.random() * sounds.length);
-                var randomSound = sounds[randomIndex].mp3;
-                var audioPlayer = new Audio(randomSound);
-                audioPlayer.volume = document.getElementById('volumeSlider').value; // Set volume
-                audioPlayer.play();
-            })
-            .catch(error => console.log('Error:', error));
+        const soundKeys = Object.keys(audioElements);
+        if (soundKeys.length === 0) return; // Guard against no sounds
+
+        const randomIndex = Math.floor(Math.random() * soundKeys.length);
+        const randomSoundName = soundKeys[randomIndex];
+        const randomSound = audioElements[randomSoundName];
+
+        stopAll(); // Stop all sounds before playing a random one
+
+        randomSound.currentTime = 0; // Reset time to the beginning
+        randomSound.volume = document.getElementById('volumeSlider').value; // Set volume
+        randomSound.play();
     }
     
     function changeVolume(volume) {
