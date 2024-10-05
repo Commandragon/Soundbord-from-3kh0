@@ -9,9 +9,7 @@
   background-color: #222;
   color: #fff;
   font-size: 16px;
-  outline: none;
 }
-
 
 * {
   margin: 0;
@@ -171,6 +169,14 @@ a:hover {
   box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
 }
 
+.progress {
+  width: 100%;
+  height: 5px;
+  margin-top: 5px;
+  border-radius: 2px;
+  background-color: #555;
+}
+
 @media only screen and (max-width: 768px) {
   .container {
     padding: 1rem;
@@ -216,4 +222,3 @@ a:hover {
     font-size: 14px;
   }
 }
-
