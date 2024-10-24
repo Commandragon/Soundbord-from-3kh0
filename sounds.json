@@ -1359,13 +1359,20 @@
   },
   {
     "name": "4 Big Guys",
-    "color": "#32cd32",
+    "color": "#64ab64",
     "mp3": "sounds/4-big-guys.mp3"
   },
   {
     "name": "4 Minutes",
     "color": "#82bd82",
     "mp3": "sounds/Four minutes.mp3"
+  },
+  {
+  "name": "Not Thick of it",
+  "color": "#ff69b4",
+  "mp3": "sounds/thick-of-it.mp3"
+},
+{
   },
   {
   "name": "Hey This Is Phil",
