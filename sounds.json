@@ -1371,17 +1371,13 @@
   "name": "Not Thick of it",
   "color": "#ff69b4",
   "mp3": "sounds/thick-of-it.mp3"
-},
-{
   },
   {
   "name": "Hey This Is Phil",
   "color": "#ff69b4",
   "mp3": "sounds/hey-this-is-phil.mp3"
-},
-{
 
 
-  }
+}
   ]
 }
