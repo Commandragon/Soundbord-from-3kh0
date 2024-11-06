@@ -1386,6 +1386,11 @@
   "name": "Mackarana",
   "color": "#185e4a",
   "mp3": "sounds/trump-macarane.mp3"
+  },
+  {
+  "name": "gingers",
+  "color": "#614157",
+  "mp3": "sounds/gingers.mp3"
 
 
 }
